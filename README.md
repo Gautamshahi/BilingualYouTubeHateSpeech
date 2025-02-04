@@ -10,7 +10,7 @@ We have collected the data using [AAMUSED](https://doi.org/10.1007/978-3-031-105
 
 #### How do I cite this work?
 
-Please cite the ([(WEBIST 2024 Paper)](https://www.scitepress.org/Papers/2024/130700/130700.pdf)):
+Please cite the [(WEBIST 2024 Paper)](https://www.scitepress.org/Papers/2024/130700/130700.pdf):
 ```
 @InProceedings{shahiecir2024,
 author="Shahi, Gautam Kishore and Jaiswal, Amit Kumar and Mandl, Thomas",
